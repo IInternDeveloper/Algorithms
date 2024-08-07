@@ -1,0 +1,14 @@
+C:\Users\Nitro-User\source\Repos\Algorithms\Algorithms\bin\Debug\net8.0\Algorithms.exe
+C:\Users\Nitro-User\source\Repos\Algorithms\Algorithms\bin\Debug\net8.0\Algorithms.deps.json
+C:\Users\Nitro-User\source\Repos\Algorithms\Algorithms\bin\Debug\net8.0\Algorithms.runtimeconfig.json
+C:\Users\Nitro-User\source\Repos\Algorithms\Algorithms\bin\Debug\net8.0\Algorithms.dll
+C:\Users\Nitro-User\source\Repos\Algorithms\Algorithms\bin\Debug\net8.0\Algorithms.pdb
+C:\Users\Nitro-User\source\Repos\Algorithms\Algorithms\obj\Debug\net8.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro-User\source\Repos\Algorithms\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\Nitro-User\source\Repos\Algorithms\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfo.cs
+C:\Users\Nitro-User\source\Repos\Algorithms\Algorithms\obj\Debug\net8.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Nitro-User\source\Repos\Algorithms\Algorithms\obj\Debug\net8.0\Algorithms.dll
+C:\Users\Nitro-User\source\Repos\Algorithms\Algorithms\obj\Debug\net8.0\refint\Algorithms.dll
+C:\Users\Nitro-User\source\Repos\Algorithms\Algorithms\obj\Debug\net8.0\Algorithms.pdb
+C:\Users\Nitro-User\source\Repos\Algorithms\Algorithms\obj\Debug\net8.0\Algorithms.genruntimeconfig.cache
+C:\Users\Nitro-User\source\Repos\Algorithms\Algorithms\obj\Debug\net8.0\ref\Algorithms.dll
