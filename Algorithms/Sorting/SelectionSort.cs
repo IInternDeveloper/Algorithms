@@ -1,8 +1,7 @@
 ﻿namespace Algorithms.Sorting;
 
 public static class SelectionSort {
-    public static void Sort<T>(T[] container)
-        where T : IComparable<T> {
+    public static void Sort<T>(T[] container) where T : IComparable<T> {
         int containerSize = container.Length;
         for (int i = 0; i < containerSize - 1; i++) {
             int indexMin = i;

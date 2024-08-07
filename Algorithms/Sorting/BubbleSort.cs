@@ -1,8 +1,7 @@
 ﻿namespace Algorithms.Sorting;
 
 public static class BubbleSort {
-    public static void Sort<T>(T[] container)
-        where T : IComparable<T> {
+    public static void Sort<T>(T[] container) where T : IComparable<T> {
         int containerSize = container.Length;
         for (int i = containerSize - 1; i > 0; i--) {
             bool swapped = false;
