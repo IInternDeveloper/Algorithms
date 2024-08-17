@@ -7,3 +7,4 @@ The repository contains implementations of algorithms and data structures in C#
 - Search
 - Sorting
 - Lists
+- Trees
