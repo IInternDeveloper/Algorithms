@@ -1,7 +1,7 @@
 ﻿namespace Algorithms.Search;
 
 public static class BinarySearch {
-    // Есть не null отсортированный массив с уникальными элементами и некоторый объект target. Требуется найти i : container[i] == target
+    // There is a non-null sorted array with unique elements and some object target. Need to find i : container[i] == target
     public static int FindIndex<T>(T[] container, T target)
         where T : IComparable<T> {
         int left = 0;

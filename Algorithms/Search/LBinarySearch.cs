@@ -1,7 +1,7 @@
 ﻿namespace Algorithms.Search;
 
 public static class LBinarySearch {
-    // Есть не null отсортированный массив и некоторый объект target. Требуется найти min{i : container[i] >= target}
+    // There is a non-null sorted array and some object target. Need to find min{i : container[i] >= target}
     public static int FindIndex<T>(T[] container, T target)
         where T : IComparable<T> {
         int left = -1;

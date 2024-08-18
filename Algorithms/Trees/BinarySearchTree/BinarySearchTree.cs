@@ -2,6 +2,7 @@
 
 namespace Algorithms.Trees.BinarySearchTree;
 
+// This implementation of the BST cannot contain nodes with the same values
 public class BinarySearchTree<T> : BinaryTree<T> where T : IComparable<T> {
     public int Count { get; set; }
 
