@@ -9,7 +9,6 @@ public class Stack<T> : IEnumerable<T> {
     private const int _defaultCapacity = 4;
 
     public int Count { get; private set; } = 0;
-
     public bool IsEmpty => Count == 0;
     
     public Stack() : this(_defaultCapacity) {
